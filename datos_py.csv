@@ -1,4 +1,4 @@
-Bloque,Cable,Planta,Repetición,Tratamiento,Medición,AlturaPT,CircPT,Hojas,dosis,frecuencia,cobertura,DDT,crec_alt,crec_gros,clorofila
+Bloque,Cable,Planta,Repeticion,Tratamiento,Medicion,AlturaPT,CircPT,Hojas,dosis,frecuencia,cobertura,DDT,crec_alt,crec_gros,clorofila
 4,55,1,1,T08S,1,1.42,7.50,6,0,8,0, 27.00 ,0.12,1.10,
 4,55,2,1,T04S,1,1.83,11.50,8,0,4,0, 27.00 ,0.13,1.90,
 4,55,3,1,T64S,1,1.66,8.50,5,6,4,0, 27.00 ,0.23,2.40,
